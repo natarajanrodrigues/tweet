@@ -1,0 +1,8 @@
+br/edu/ifpb/tweet/i18n/I18NResolver.class
+br/edu/ifpb/tweet/entity/Message.class
+br/edu/ifpb/tweet/controller/MainController.class
+br/edu/ifpb/tweet/interfaces/BD.class
+br/edu/ifpb/tweet/interfaces/Repository.class
+br/edu/ifpb/tweet/repositories/RepositoryBD.class
+br/edu/ifpb/tweet/interfaces/XML.class
+br/edu/ifpb/tweet/service/Service.class
